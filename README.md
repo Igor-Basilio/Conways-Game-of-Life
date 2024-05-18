@@ -14,5 +14,6 @@ Controls :
 
 Running : 
 
-  All you need is to have Go installed. 
-  https://go.dev/doc/install
+  1. All you need is to have Go installed, https://go.dev/doc/install
+  2. Change into the main directory of the project
+  3. Run : go run ./main
