@@ -1,4 +1,4 @@
-Implementation of Conways Game of Life using Golang + Raylib 
+# Implementation of Conways Game of Life using Golang + Raylib 
 
 The rules of the game are as follows : ( slightly different from the ones on the wikipedia page )
 
@@ -8,11 +8,11 @@ The rules of the game are as follows : ( slightly different from the ones on the
 
 If none of those rules apply then the cell moves on to the next generation.
 
-Controls : 
+# Controls : 
 
   1. Left Control to pause the game and be able to select and click cells with the mouse.
 
-Running : 
+# Running : 
 
   1. All you need is to have Go installed, https://go.dev/doc/install
   2. Change into the main directory of the project
