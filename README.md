@@ -11,3 +11,8 @@ If none of those rules apply then the cell moves on to the next generation.
 Controls : 
 
   1. Left Control to pause the game and be able to select and click cells with the mouse.
+
+Running : 
+
+  All you need is to have Go installed. 
+  https://go.dev/doc/install
