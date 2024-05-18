@@ -6,7 +6,9 @@ The rules of the game are as follows : ( slightly different from the ones on the
 2. Any alive cell with four or more neighbours dies
 3. Any dead cell with exactly three neighbours lives
 
-If none of those rules apply then the cell moves on to the next generation.
+If none of those rules apply then the cell moves on to the next generation. 
+
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 # Controls : 
 
